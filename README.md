@@ -6,8 +6,8 @@ current position: top 20% (improving day by day)
 
 approach 1:
 1. trained a simple MLP on document vectors obtained using SpaCy embeddings
-2. download training set vectors from: 
-3. download testing set vectors from:
+2. download training set vectors from: https://1drv.ms/u/s!ArXGiIqbK5uzgx2PP-HSj0QB5Bfq
+3. download testing set vectors from: https://1drv.ms/u/s!ArXGiIqbK5uzgx5GFDJRqSs8jVmo
 
 approach 2:
 1. Used Glove 200D word embeddings trained on negative tweets.
