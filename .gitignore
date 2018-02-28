@@ -1,0 +1,7 @@
+*.csv
+*.pickle
+*.hdf5
+*.zip
+*.txt
+.ipynb_checkpoints
+/logs
